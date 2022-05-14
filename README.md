@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed a Frontend Web Development enthusiast.
 - 👀 I’m interested in learning Web Development.
-- 🌱 I’m currently learning HTML, CSS, Javascript.
+- 🌱 I’m currently learning Web Development with HTML, CSS, and Javascript @Udacity.
 - 📫 How to reach me mohamedsanad250@gmail.com
 
 <!---
